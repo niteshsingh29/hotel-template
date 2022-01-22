@@ -1,0 +1,85 @@
+.card-1{
+    width: 35rem;
+    left: 0%;
+    position: absolute!important;
+    /* bottom: 50%; */
+    display: block;
+    top: 150px;
+    
+}
+.choose{
+    width: 100%;
+}
+
+.checkin-input1{
+   width: 100%;
+   border: 1px solid grey; 
+}
+
+.addresss{
+    font-family:  sans-serif;
+    font-size: 18px;
+
+}
+
+.on-demand .on-demand-para{
+    background-color: orangered;
+}
+
+
+.get-the-best-offer{
+    background-color: rgb(69, 71, 66);
+}
+.get-the-best-offer:hover{
+    background-color: black;
+
+}
+.navbar .nav-link1{
+    color: black;
+}
+.navbar .nav-link2{
+    color: white;
+}
+.navbar i{
+    color: white;
+}
+body{
+    background-color: #f1f1f1!important;
+}
+
+
+
+
+/* 
+@media  screen and (max-width: 1200px) {
+    .landing-page{
+        position: relative;
+    } */
+
+    /* .card-1{
+        width: 15rem;
+    } */
+
+
+
+@media  screen and (max-width: 770px) {
+    .landing-page{
+        position: relative;
+    } 
+    .landing-page .card-1{
+        display: none;
+    }
+
+}
+
+    
+/* }
+@media  screen and (max-width: 954px) {
+    .landing-page{
+        position: relative;
+    } */
+/* 
+    .card-1{
+        width: 15rem;
+
+    */
